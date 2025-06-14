@@ -56,7 +56,7 @@ Make sure the following folders and files exist:
 ### 4. Run the App
 
 ```bash
-python music_player.py
+python main.py
 ```
 
 ---
